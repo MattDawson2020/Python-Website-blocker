@@ -1,1 +1,5 @@
 Program Architecture
+
+C:\Windows\System32\drivers\etc
+Host file for windows that maps ip addresses to host names
+
